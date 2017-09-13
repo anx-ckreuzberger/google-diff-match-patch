@@ -1,0 +1,19 @@
+{
+  "name": "google-diff-match-patch",
+  "version": "1.0.0",
+  "description": "A copy of google-diff-match-patch with npm and bower support",
+  "main": "diff_match_patch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anx-ckreuzberger/google-diff-match-patch.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/anx-ckreuzberger/google-diff-match-patch/issues"
+  },
+  "homepage": "https://github.com/anx-ckreuzberger/google-diff-match-patch#readme"
+}
